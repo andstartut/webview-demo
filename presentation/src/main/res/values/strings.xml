@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">FieldTeamApp</string>
+    
+    <!-- Location Permission Dialog -->
+    <string name="location_permission_title">Allow Location Access</string>
+    <string name="location_permission_message">To provide accurate time zone updates and ensure events and notifications work correctly, this app requires access to your device\'s location.</string>
+    
+    <!-- Notification Permission Dialog -->
+    <string name="notification_permission_title">Allow Notifications</string>
+    <string name="notification_permission_message">To keep you updated with important events and reminders, this app needs permission to send notifications.</string>
+
+    <!-- Permission Denied -->
+    <string name="location_permission_denied_title">Location Permission Required</string>
+    <string name="location_permission_denied_message">Location access was denied. Please enable it in app settings to continue.</string>
+    <string name="notification_permission_denied_title">Notification Permission Required</string>
+    <string name="notification_permission_denied_message">Notification access was denied. Please enable it in app settings to continue.</string>
+    
+    <string name="ok">OK</string>
+    <string name="open_settings">Open Settings</string>
+    <string name="open_app_settings_error">There was a problem opening the settings</string>
+    <string name="no_application_available">No application available</string>
+    <string name="external_navigation_error">Navigation error: external links are not supported</string>
+    <string name="clear">Clear</string>
+
+</resources>

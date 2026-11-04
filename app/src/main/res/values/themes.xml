@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.FieldTeam" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@android:color/white</item>
+        <item name="android:windowSplashScreenBrandingImage">@drawable/splashscreen_branding_centered</item>
+        <item name="postSplashScreenTheme">@style/Theme.FieldTeam.PostSplash</item>
+    </style>
+
+    <style name="Theme.FieldTeam.PostSplash" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>

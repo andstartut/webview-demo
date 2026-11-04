@@ -1,0 +1,8 @@
+{
+  "name": "FieldTeamDemo",
+  "short_name": "FieldTeam",
+  "theme_color": "#2563eb",
+  "background_color": "#ffffff",
+  "start_url": "/",
+  "display": "standalone"
+}
